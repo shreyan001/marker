@@ -22,13 +22,10 @@ createWeb3Modal({
   enableAnalytics: true, // Optional - defaults to your Cloud configuration
   enableOnramp: true, // Optional - false as default
   siweConfig,
-  themeMode: 'light',
+  themeMode: 'dark',
   themeVariables: {
-    '--w3m-accent': '#39FF14',
-   
-        '--w3m-color-mix': '#F7CA18',
-        '--w3m-color-mix-strength': 16
- 
+    '--w3m-accent': '#FFC700',
+     
     
     
   }
